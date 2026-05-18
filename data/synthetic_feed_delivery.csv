@@ -1,0 +1,337 @@
+delivery_date,site,tons_delivered,feed_type,vendor,driver,lot_number,bin_level_before_pct,bin_level_after_pct,source
+2025-01-01,Nursery North,9.0,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-8352,39,75,SYNTHETIC — requires bin scale API
+2025-01-01,Nursery South,15.1,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-3708,17,75,SYNTHETIC — requires bin scale API
+2025-01-01,Finisher East,6.9,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-4273,36,93,SYNTHETIC — requires bin scale API
+2025-01-01,Finisher West,15.4,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-4722,19,81,SYNTHETIC — requires bin scale API
+2025-01-04,Nursery North,9.2,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-6754,30,60,SYNTHETIC — requires bin scale API
+2025-01-04,Nursery South,14.5,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-2104,18,83,SYNTHETIC — requires bin scale API
+2025-01-04,Finisher East,7.9,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2914,15,60,SYNTHETIC — requires bin scale API
+2025-01-04,Finisher West,7.5,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-1508,39,76,SYNTHETIC — requires bin scale API
+2025-01-07,Nursery North,6.4,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-3120,22,65,SYNTHETIC — requires bin scale API
+2025-01-07,Nursery South,10.0,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-4408,26,71,SYNTHETIC — requires bin scale API
+2025-01-07,Finisher East,14.1,Grower (16% CP),AgriFeed Co,R. Chen,LOT-5287,10,76,SYNTHETIC — requires bin scale API
+2025-01-07,Finisher West,10.6,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2567,13,77,SYNTHETIC — requires bin scale API
+2025-01-10,Nursery North,6.2,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-4490,17,73,SYNTHETIC — requires bin scale API
+2025-01-10,Nursery South,14.4,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-5796,32,63,SYNTHETIC — requires bin scale API
+2025-01-10,Finisher East,12.7,Grower (16% CP),AgriFeed Co,R. Chen,LOT-5997,34,92,SYNTHETIC — requires bin scale API
+2025-01-10,Finisher West,17.6,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-3240,14,86,SYNTHETIC — requires bin scale API
+2025-01-13,Nursery North,11.8,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-2855,39,94,SYNTHETIC — requires bin scale API
+2025-01-13,Nursery South,17.4,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-2481,34,79,SYNTHETIC — requires bin scale API
+2025-01-13,Finisher East,14.1,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-4093,28,67,SYNTHETIC — requires bin scale API
+2025-01-13,Finisher West,9.0,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-8951,32,78,SYNTHETIC — requires bin scale API
+2025-01-16,Nursery North,13.5,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-6131,39,70,SYNTHETIC — requires bin scale API
+2025-01-16,Nursery South,8.3,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-4168,14,87,SYNTHETIC — requires bin scale API
+2025-01-16,Finisher East,10.9,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-4104,39,78,SYNTHETIC — requires bin scale API
+2025-01-16,Finisher West,14.1,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-3606,16,63,SYNTHETIC — requires bin scale API
+2025-01-19,Nursery North,17.8,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-7358,28,88,SYNTHETIC — requires bin scale API
+2025-01-19,Nursery South,7.2,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-7481,19,67,SYNTHETIC — requires bin scale API
+2025-01-19,Finisher East,6.8,Grower (16% CP),AgriFeed Co,J. Miller,LOT-7160,11,65,SYNTHETIC — requires bin scale API
+2025-01-19,Finisher West,12.6,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-2988,27,85,SYNTHETIC — requires bin scale API
+2025-01-22,Nursery North,13.0,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-6808,21,66,SYNTHETIC — requires bin scale API
+2025-01-22,Nursery South,9.2,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-9399,11,83,SYNTHETIC — requires bin scale API
+2025-01-22,Finisher East,13.9,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-2518,15,79,SYNTHETIC — requires bin scale API
+2025-01-22,Finisher West,9.6,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-4554,24,61,SYNTHETIC — requires bin scale API
+2025-01-25,Nursery North,9.2,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-2742,36,69,SYNTHETIC — requires bin scale API
+2025-01-25,Nursery South,11.4,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-5195,36,61,SYNTHETIC — requires bin scale API
+2025-01-25,Finisher East,16.4,Grower (16% CP),AgriFeed Co,R. Chen,LOT-7409,30,74,SYNTHETIC — requires bin scale API
+2025-01-25,Finisher West,8.6,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2271,31,93,SYNTHETIC — requires bin scale API
+2025-01-28,Nursery North,10.5,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-5396,13,66,SYNTHETIC — requires bin scale API
+2025-01-28,Nursery South,9.0,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-8817,13,68,SYNTHETIC — requires bin scale API
+2025-01-28,Finisher East,16.1,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-8967,15,76,SYNTHETIC — requires bin scale API
+2025-01-28,Finisher West,12.0,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-4490,29,80,SYNTHETIC — requires bin scale API
+2025-01-31,Nursery North,17.0,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-4676,36,68,SYNTHETIC — requires bin scale API
+2025-01-31,Nursery South,11.3,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-1859,26,79,SYNTHETIC — requires bin scale API
+2025-01-31,Finisher East,8.4,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-9342,24,91,SYNTHETIC — requires bin scale API
+2025-01-31,Finisher West,16.9,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-7136,23,64,SYNTHETIC — requires bin scale API
+2025-02-03,Nursery North,6.9,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-9252,27,62,SYNTHETIC — requires bin scale API
+2025-02-03,Nursery South,8.6,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-2551,27,89,SYNTHETIC — requires bin scale API
+2025-02-03,Finisher East,17.4,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-5370,13,72,SYNTHETIC — requires bin scale API
+2025-02-03,Finisher West,15.4,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-1869,10,86,SYNTHETIC — requires bin scale API
+2025-02-06,Nursery North,12.3,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-1489,26,68,SYNTHETIC — requires bin scale API
+2025-02-06,Nursery South,8.5,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-1294,26,87,SYNTHETIC — requires bin scale API
+2025-02-06,Finisher East,17.0,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-2873,33,80,SYNTHETIC — requires bin scale API
+2025-02-06,Finisher West,10.9,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-6307,15,74,SYNTHETIC — requires bin scale API
+2025-02-09,Nursery North,6.8,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-8829,20,72,SYNTHETIC — requires bin scale API
+2025-02-09,Nursery South,9.6,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-5970,31,83,SYNTHETIC — requires bin scale API
+2025-02-09,Finisher East,17.1,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-4074,23,60,SYNTHETIC — requires bin scale API
+2025-02-09,Finisher West,17.1,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-1644,26,69,SYNTHETIC — requires bin scale API
+2025-02-12,Nursery North,17.3,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-3668,24,79,SYNTHETIC — requires bin scale API
+2025-02-12,Nursery South,11.4,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-1195,21,86,SYNTHETIC — requires bin scale API
+2025-02-12,Finisher East,12.2,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-9468,38,83,SYNTHETIC — requires bin scale API
+2025-02-12,Finisher West,15.5,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-3591,32,91,SYNTHETIC — requires bin scale API
+2025-02-15,Nursery North,15.4,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-2200,19,75,SYNTHETIC — requires bin scale API
+2025-02-15,Nursery South,16.5,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-1136,15,94,SYNTHETIC — requires bin scale API
+2025-02-15,Finisher East,10.2,Grower (16% CP),AgriFeed Co,J. Miller,LOT-1086,26,71,SYNTHETIC — requires bin scale API
+2025-02-15,Finisher West,16.3,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-7968,31,68,SYNTHETIC — requires bin scale API
+2025-02-18,Nursery North,7.9,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-3700,23,82,SYNTHETIC — requires bin scale API
+2025-02-18,Nursery South,11.2,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-1596,11,65,SYNTHETIC — requires bin scale API
+2025-02-18,Finisher East,15.5,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-5384,39,76,SYNTHETIC — requires bin scale API
+2025-02-18,Finisher West,11.0,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-8117,35,69,SYNTHETIC — requires bin scale API
+2025-02-21,Nursery North,13.6,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-8178,23,78,SYNTHETIC — requires bin scale API
+2025-02-21,Nursery South,10.0,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-6783,17,68,SYNTHETIC — requires bin scale API
+2025-02-21,Finisher East,11.0,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-1018,12,69,SYNTHETIC — requires bin scale API
+2025-02-21,Finisher West,10.9,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-2948,27,93,SYNTHETIC — requires bin scale API
+2025-02-24,Nursery North,10.9,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-5188,25,72,SYNTHETIC — requires bin scale API
+2025-02-24,Nursery South,14.4,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-5390,33,85,SYNTHETIC — requires bin scale API
+2025-02-24,Finisher East,12.1,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-6126,35,60,SYNTHETIC — requires bin scale API
+2025-02-24,Finisher West,6.2,Grower (16% CP),AgriFeed Co,R. Chen,LOT-9442,38,62,SYNTHETIC — requires bin scale API
+2025-02-27,Nursery North,12.7,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-4893,37,68,SYNTHETIC — requires bin scale API
+2025-02-27,Nursery South,12.4,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-1504,31,75,SYNTHETIC — requires bin scale API
+2025-02-27,Finisher East,8.4,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-4816,16,73,SYNTHETIC — requires bin scale API
+2025-02-27,Finisher West,12.1,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-5008,22,74,SYNTHETIC — requires bin scale API
+2025-03-02,Nursery North,11.6,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-5637,34,77,SYNTHETIC — requires bin scale API
+2025-03-02,Nursery South,16.8,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-4719,31,65,SYNTHETIC — requires bin scale API
+2025-03-02,Finisher East,10.7,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-4406,37,77,SYNTHETIC — requires bin scale API
+2025-03-02,Finisher West,10.5,Grower (16% CP),AgriFeed Co,J. Miller,LOT-3382,29,88,SYNTHETIC — requires bin scale API
+2025-03-05,Nursery North,12.7,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-1002,31,73,SYNTHETIC — requires bin scale API
+2025-03-05,Nursery South,10.5,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-6626,37,70,SYNTHETIC — requires bin scale API
+2025-03-05,Finisher East,13.9,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-9026,39,61,SYNTHETIC — requires bin scale API
+2025-03-05,Finisher West,13.9,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-1670,37,93,SYNTHETIC — requires bin scale API
+2025-03-08,Nursery North,15.3,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-6255,18,91,SYNTHETIC — requires bin scale API
+2025-03-08,Nursery South,12.2,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-6330,21,88,SYNTHETIC — requires bin scale API
+2025-03-08,Finisher East,10.6,Grower (16% CP),AgriFeed Co,R. Chen,LOT-9411,15,88,SYNTHETIC — requires bin scale API
+2025-03-08,Finisher West,7.9,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-2812,35,81,SYNTHETIC — requires bin scale API
+2025-03-11,Nursery North,15.1,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-4340,20,75,SYNTHETIC — requires bin scale API
+2025-03-11,Nursery South,8.4,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-8404,36,61,SYNTHETIC — requires bin scale API
+2025-03-11,Finisher East,11.1,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-4278,25,76,SYNTHETIC — requires bin scale API
+2025-03-11,Finisher West,13.0,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-1370,35,82,SYNTHETIC — requires bin scale API
+2025-03-14,Nursery North,13.9,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-5334,12,62,SYNTHETIC — requires bin scale API
+2025-03-14,Nursery South,13.6,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-7111,37,80,SYNTHETIC — requires bin scale API
+2025-03-14,Finisher East,14.3,Grower (16% CP),AgriFeed Co,R. Chen,LOT-3915,16,81,SYNTHETIC — requires bin scale API
+2025-03-14,Finisher West,6.8,Grower (16% CP),AgriFeed Co,R. Chen,LOT-2230,13,91,SYNTHETIC — requires bin scale API
+2025-03-17,Nursery North,15.1,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-4940,29,71,SYNTHETIC — requires bin scale API
+2025-03-17,Nursery South,7.8,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-7718,31,65,SYNTHETIC — requires bin scale API
+2025-03-17,Finisher East,11.0,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-3875,33,65,SYNTHETIC — requires bin scale API
+2025-03-17,Finisher West,11.1,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-9092,16,72,SYNTHETIC — requires bin scale API
+2025-03-20,Nursery North,15.9,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-3378,10,86,SYNTHETIC — requires bin scale API
+2025-03-20,Nursery South,18.0,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-7623,38,69,SYNTHETIC — requires bin scale API
+2025-03-20,Finisher East,6.1,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-7396,22,94,SYNTHETIC — requires bin scale API
+2025-03-20,Finisher West,6.3,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-5594,31,70,SYNTHETIC — requires bin scale API
+2025-03-23,Nursery North,6.2,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-1165,23,83,SYNTHETIC — requires bin scale API
+2025-03-23,Nursery South,13.5,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-4839,20,94,SYNTHETIC — requires bin scale API
+2025-03-23,Finisher East,17.3,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-1067,38,88,SYNTHETIC — requires bin scale API
+2025-03-23,Finisher West,15.1,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-1572,20,84,SYNTHETIC — requires bin scale API
+2025-03-26,Nursery North,8.7,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-7039,20,93,SYNTHETIC — requires bin scale API
+2025-03-26,Nursery South,10.1,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-2338,14,80,SYNTHETIC — requires bin scale API
+2025-03-26,Finisher East,17.8,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-3217,29,84,SYNTHETIC — requires bin scale API
+2025-03-26,Finisher West,12.0,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-3961,36,77,SYNTHETIC — requires bin scale API
+2025-03-29,Nursery North,7.3,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-4716,32,84,SYNTHETIC — requires bin scale API
+2025-03-29,Nursery South,13.8,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-7982,13,60,SYNTHETIC — requires bin scale API
+2025-03-29,Finisher East,8.2,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-8086,26,88,SYNTHETIC — requires bin scale API
+2025-03-29,Finisher West,17.4,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-5529,25,92,SYNTHETIC — requires bin scale API
+2025-04-01,Nursery North,13.3,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-5875,17,79,SYNTHETIC — requires bin scale API
+2025-04-01,Nursery South,17.5,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-4255,35,89,SYNTHETIC — requires bin scale API
+2025-04-01,Finisher East,16.6,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-3789,11,85,SYNTHETIC — requires bin scale API
+2025-04-01,Finisher West,14.9,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-8175,38,85,SYNTHETIC — requires bin scale API
+2025-04-04,Nursery North,7.0,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-6866,16,75,SYNTHETIC — requires bin scale API
+2025-04-04,Nursery South,16.4,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-8382,33,68,SYNTHETIC — requires bin scale API
+2025-04-04,Finisher East,18.0,Grower (16% CP),AgriFeed Co,J. Miller,LOT-1464,24,90,SYNTHETIC — requires bin scale API
+2025-04-04,Finisher West,17.7,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-4805,23,79,SYNTHETIC — requires bin scale API
+2025-04-07,Nursery North,10.2,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-4856,19,89,SYNTHETIC — requires bin scale API
+2025-04-07,Nursery South,9.7,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-7065,16,93,SYNTHETIC — requires bin scale API
+2025-04-07,Finisher East,11.7,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-3775,19,91,SYNTHETIC — requires bin scale API
+2025-04-07,Finisher West,8.0,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-4970,14,67,SYNTHETIC — requires bin scale API
+2025-04-10,Nursery North,11.3,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-7026,23,67,SYNTHETIC — requires bin scale API
+2025-04-10,Nursery South,8.6,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-8587,38,72,SYNTHETIC — requires bin scale API
+2025-04-10,Finisher East,6.8,Grower (16% CP),AgriFeed Co,J. Miller,LOT-6457,15,83,SYNTHETIC — requires bin scale API
+2025-04-10,Finisher West,7.9,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-8542,20,87,SYNTHETIC — requires bin scale API
+2025-04-13,Nursery North,13.4,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-2289,17,83,SYNTHETIC — requires bin scale API
+2025-04-13,Nursery South,13.5,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-4216,10,90,SYNTHETIC — requires bin scale API
+2025-04-13,Finisher East,9.7,Grower (16% CP),AgriFeed Co,R. Chen,LOT-7324,33,93,SYNTHETIC — requires bin scale API
+2025-04-13,Finisher West,11.5,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-1687,27,71,SYNTHETIC — requires bin scale API
+2025-04-16,Nursery North,15.3,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-7094,32,72,SYNTHETIC — requires bin scale API
+2025-04-16,Nursery South,17.9,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-8124,27,72,SYNTHETIC — requires bin scale API
+2025-04-16,Finisher East,14.9,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-4109,28,66,SYNTHETIC — requires bin scale API
+2025-04-16,Finisher West,7.4,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-6558,16,63,SYNTHETIC — requires bin scale API
+2025-04-19,Nursery North,11.0,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-2932,22,76,SYNTHETIC — requires bin scale API
+2025-04-19,Nursery South,15.8,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-2881,23,90,SYNTHETIC — requires bin scale API
+2025-04-19,Finisher East,10.8,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2695,36,87,SYNTHETIC — requires bin scale API
+2025-04-19,Finisher West,8.0,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2666,22,93,SYNTHETIC — requires bin scale API
+2025-04-22,Nursery North,16.8,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-7855,32,67,SYNTHETIC — requires bin scale API
+2025-04-22,Nursery South,10.5,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-5482,36,71,SYNTHETIC — requires bin scale API
+2025-04-22,Finisher East,12.7,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-6374,14,84,SYNTHETIC — requires bin scale API
+2025-04-22,Finisher West,6.3,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-5820,35,79,SYNTHETIC — requires bin scale API
+2025-04-25,Nursery North,9.0,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-5620,22,79,SYNTHETIC — requires bin scale API
+2025-04-25,Nursery South,10.5,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-3979,10,60,SYNTHETIC — requires bin scale API
+2025-04-25,Finisher East,10.2,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-4129,17,86,SYNTHETIC — requires bin scale API
+2025-04-25,Finisher West,6.5,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-1314,35,72,SYNTHETIC — requires bin scale API
+2025-04-28,Nursery North,11.6,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-6592,38,75,SYNTHETIC — requires bin scale API
+2025-04-28,Nursery South,13.4,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-8678,26,89,SYNTHETIC — requires bin scale API
+2025-04-28,Finisher East,18.0,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-2117,27,72,SYNTHETIC — requires bin scale API
+2025-04-28,Finisher West,14.1,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-2647,32,76,SYNTHETIC — requires bin scale API
+2025-05-01,Nursery North,12.1,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-3761,21,90,SYNTHETIC — requires bin scale API
+2025-05-01,Nursery South,7.5,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-2848,29,68,SYNTHETIC — requires bin scale API
+2025-05-01,Finisher East,16.1,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-3786,20,93,SYNTHETIC — requires bin scale API
+2025-05-01,Finisher West,8.6,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2504,22,73,SYNTHETIC — requires bin scale API
+2025-05-04,Nursery North,17.0,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-4303,19,70,SYNTHETIC — requires bin scale API
+2025-05-04,Nursery South,12.8,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-2504,35,88,SYNTHETIC — requires bin scale API
+2025-05-04,Finisher East,16.3,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-5485,31,67,SYNTHETIC — requires bin scale API
+2025-05-04,Finisher West,15.3,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-7999,26,80,SYNTHETIC — requires bin scale API
+2025-05-07,Nursery North,17.5,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-2874,16,87,SYNTHETIC — requires bin scale API
+2025-05-07,Nursery South,13.2,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-2051,11,63,SYNTHETIC — requires bin scale API
+2025-05-07,Finisher East,10.2,Grower (16% CP),AgriFeed Co,R. Chen,LOT-3105,22,91,SYNTHETIC — requires bin scale API
+2025-05-07,Finisher West,12.5,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2517,28,94,SYNTHETIC — requires bin scale API
+2025-05-10,Nursery North,7.7,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-5992,19,77,SYNTHETIC — requires bin scale API
+2025-05-10,Nursery South,17.9,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-7603,17,83,SYNTHETIC — requires bin scale API
+2025-05-10,Finisher East,10.5,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-1183,21,90,SYNTHETIC — requires bin scale API
+2025-05-10,Finisher West,7.8,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-9728,11,62,SYNTHETIC — requires bin scale API
+2025-05-13,Nursery North,9.0,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-2096,35,79,SYNTHETIC — requires bin scale API
+2025-05-13,Nursery South,15.0,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-9002,33,64,SYNTHETIC — requires bin scale API
+2025-05-13,Finisher East,7.4,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-1270,12,71,SYNTHETIC — requires bin scale API
+2025-05-13,Finisher West,16.4,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-7305,32,90,SYNTHETIC — requires bin scale API
+2025-05-16,Nursery North,10.3,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-5182,25,60,SYNTHETIC — requires bin scale API
+2025-05-16,Nursery South,11.3,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-4970,35,80,SYNTHETIC — requires bin scale API
+2025-05-16,Finisher East,11.2,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-7589,38,92,SYNTHETIC — requires bin scale API
+2025-05-16,Finisher West,7.4,Grower (16% CP),AgriFeed Co,R. Chen,LOT-9185,35,74,SYNTHETIC — requires bin scale API
+2025-05-19,Nursery North,11.2,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-3672,20,82,SYNTHETIC — requires bin scale API
+2025-05-19,Nursery South,13.9,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-5059,12,81,SYNTHETIC — requires bin scale API
+2025-05-19,Finisher East,12.3,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-8409,19,84,SYNTHETIC — requires bin scale API
+2025-05-19,Finisher West,17.3,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-5668,14,88,SYNTHETIC — requires bin scale API
+2025-05-22,Nursery North,8.7,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-8616,17,89,SYNTHETIC — requires bin scale API
+2025-05-22,Nursery South,16.4,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-1890,17,87,SYNTHETIC — requires bin scale API
+2025-05-22,Finisher East,17.8,Grower (16% CP),AgriFeed Co,R. Chen,LOT-4806,35,80,SYNTHETIC — requires bin scale API
+2025-05-22,Finisher West,8.9,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-7686,29,84,SYNTHETIC — requires bin scale API
+2025-05-25,Nursery North,14.3,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-5647,14,60,SYNTHETIC — requires bin scale API
+2025-05-25,Nursery South,9.0,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-7837,19,80,SYNTHETIC — requires bin scale API
+2025-05-25,Finisher East,14.9,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-3028,25,67,SYNTHETIC — requires bin scale API
+2025-05-25,Finisher West,7.9,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-9848,15,76,SYNTHETIC — requires bin scale API
+2025-05-28,Nursery North,10.3,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-7509,23,67,SYNTHETIC — requires bin scale API
+2025-05-28,Nursery South,15.7,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-8962,22,90,SYNTHETIC — requires bin scale API
+2025-05-28,Finisher East,9.6,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-8984,32,84,SYNTHETIC — requires bin scale API
+2025-05-28,Finisher West,13.2,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-1985,29,65,SYNTHETIC — requires bin scale API
+2025-05-31,Nursery North,7.9,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-7928,34,73,SYNTHETIC — requires bin scale API
+2025-05-31,Nursery South,16.1,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-8566,28,94,SYNTHETIC — requires bin scale API
+2025-05-31,Finisher East,6.9,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-2635,12,91,SYNTHETIC — requires bin scale API
+2025-05-31,Finisher West,17.3,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-2073,10,94,SYNTHETIC — requires bin scale API
+2025-06-03,Nursery North,10.3,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-2956,25,74,SYNTHETIC — requires bin scale API
+2025-06-03,Nursery South,10.7,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-5827,25,63,SYNTHETIC — requires bin scale API
+2025-06-03,Finisher East,11.0,Grower (16% CP),AgriFeed Co,J. Miller,LOT-1757,17,83,SYNTHETIC — requires bin scale API
+2025-06-03,Finisher West,17.6,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-4558,22,61,SYNTHETIC — requires bin scale API
+2025-06-06,Nursery North,16.6,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-2001,38,75,SYNTHETIC — requires bin scale API
+2025-06-06,Nursery South,10.8,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-9849,27,64,SYNTHETIC — requires bin scale API
+2025-06-06,Finisher East,15.4,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-5266,39,82,SYNTHETIC — requires bin scale API
+2025-06-06,Finisher West,16.0,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-2657,38,63,SYNTHETIC — requires bin scale API
+2025-06-09,Nursery North,15.2,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-6737,27,74,SYNTHETIC — requires bin scale API
+2025-06-09,Nursery South,11.8,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-3671,33,62,SYNTHETIC — requires bin scale API
+2025-06-09,Finisher East,15.9,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-8263,13,63,SYNTHETIC — requires bin scale API
+2025-06-09,Finisher West,8.8,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-1725,33,65,SYNTHETIC — requires bin scale API
+2025-06-12,Nursery North,11.3,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-3197,25,70,SYNTHETIC — requires bin scale API
+2025-06-12,Nursery South,11.5,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-8483,21,82,SYNTHETIC — requires bin scale API
+2025-06-12,Finisher East,11.5,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-2814,19,78,SYNTHETIC — requires bin scale API
+2025-06-12,Finisher West,16.6,Grower (16% CP),AgriFeed Co,R. Chen,LOT-3931,32,89,SYNTHETIC — requires bin scale API
+2025-06-15,Nursery North,15.3,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-8415,25,84,SYNTHETIC — requires bin scale API
+2025-06-15,Nursery South,15.6,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-7782,18,84,SYNTHETIC — requires bin scale API
+2025-06-15,Finisher East,13.9,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-6578,20,80,SYNTHETIC — requires bin scale API
+2025-06-15,Finisher West,16.0,Grower (16% CP),AgriFeed Co,R. Chen,LOT-4792,39,61,SYNTHETIC — requires bin scale API
+2025-06-18,Nursery North,17.1,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-7197,36,70,SYNTHETIC — requires bin scale API
+2025-06-18,Nursery South,11.0,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-2012,36,85,SYNTHETIC — requires bin scale API
+2025-06-18,Finisher East,17.4,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-5586,24,71,SYNTHETIC — requires bin scale API
+2025-06-18,Finisher West,10.4,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-7785,35,86,SYNTHETIC — requires bin scale API
+2025-06-21,Nursery North,14.5,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-2902,32,71,SYNTHETIC — requires bin scale API
+2025-06-21,Nursery South,10.9,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-1464,33,80,SYNTHETIC — requires bin scale API
+2025-06-21,Finisher East,7.1,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-3851,37,88,SYNTHETIC — requires bin scale API
+2025-06-21,Finisher West,13.5,Grower (16% CP),AgriFeed Co,J. Miller,LOT-7543,23,69,SYNTHETIC — requires bin scale API
+2025-06-24,Nursery North,14.0,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-7940,12,74,SYNTHETIC — requires bin scale API
+2025-06-24,Nursery South,10.7,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-8954,22,80,SYNTHETIC — requires bin scale API
+2025-06-24,Finisher East,15.7,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-9476,29,84,SYNTHETIC — requires bin scale API
+2025-06-24,Finisher West,9.2,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-5319,25,77,SYNTHETIC — requires bin scale API
+2025-06-27,Nursery North,6.7,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-2810,32,93,SYNTHETIC — requires bin scale API
+2025-06-27,Nursery South,8.3,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-7364,13,81,SYNTHETIC — requires bin scale API
+2025-06-27,Finisher East,10.0,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-8910,28,78,SYNTHETIC — requires bin scale API
+2025-06-27,Finisher West,13.8,Finisher 2 (13% CP),AgriFeed Co,R. Chen,LOT-9339,18,91,SYNTHETIC — requires bin scale API
+2025-06-30,Nursery North,15.9,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-7781,20,81,SYNTHETIC — requires bin scale API
+2025-06-30,Nursery South,14.1,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-6929,18,90,SYNTHETIC — requires bin scale API
+2025-06-30,Finisher East,17.9,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-6308,28,90,SYNTHETIC — requires bin scale API
+2025-06-30,Finisher West,11.6,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-2907,19,61,SYNTHETIC — requires bin scale API
+2025-07-03,Nursery North,13.4,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-1143,25,90,SYNTHETIC — requires bin scale API
+2025-07-03,Nursery South,14.3,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-1886,30,63,SYNTHETIC — requires bin scale API
+2025-07-03,Finisher East,13.2,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-3654,26,92,SYNTHETIC — requires bin scale API
+2025-07-03,Finisher West,11.9,Grower (16% CP),AgriFeed Co,R. Chen,LOT-6300,19,66,SYNTHETIC — requires bin scale API
+2025-07-06,Nursery North,9.0,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-5042,17,70,SYNTHETIC — requires bin scale API
+2025-07-06,Nursery South,16.2,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-3842,26,61,SYNTHETIC — requires bin scale API
+2025-07-06,Finisher East,15.2,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-3077,29,87,SYNTHETIC — requires bin scale API
+2025-07-06,Finisher West,15.2,Grower (16% CP),AgriFeed Co,J. Miller,LOT-9635,19,92,SYNTHETIC — requires bin scale API
+2025-07-09,Nursery North,13.5,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-9745,24,75,SYNTHETIC — requires bin scale API
+2025-07-09,Nursery South,8.5,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-7897,20,86,SYNTHETIC — requires bin scale API
+2025-07-09,Finisher East,14.8,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-6593,34,61,SYNTHETIC — requires bin scale API
+2025-07-09,Finisher West,10.9,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-2881,18,69,SYNTHETIC — requires bin scale API
+2025-07-12,Nursery North,7.0,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-5883,16,61,SYNTHETIC — requires bin scale API
+2025-07-12,Nursery South,11.1,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-2409,34,73,SYNTHETIC — requires bin scale API
+2025-07-12,Finisher East,10.8,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-3172,16,83,SYNTHETIC — requires bin scale API
+2025-07-12,Finisher West,10.4,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-8825,33,73,SYNTHETIC — requires bin scale API
+2025-07-15,Nursery North,15.6,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-7135,15,81,SYNTHETIC — requires bin scale API
+2025-07-15,Nursery South,12.3,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-5535,34,91,SYNTHETIC — requires bin scale API
+2025-07-15,Finisher East,14.1,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-9386,32,91,SYNTHETIC — requires bin scale API
+2025-07-15,Finisher West,15.1,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-6874,23,90,SYNTHETIC — requires bin scale API
+2025-07-18,Nursery North,6.5,Phase 1 (22% CP),AgriFeed Co,T. Anderson,LOT-8766,23,66,SYNTHETIC — requires bin scale API
+2025-07-18,Nursery South,7.5,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-9872,31,93,SYNTHETIC — requires bin scale API
+2025-07-18,Finisher East,9.8,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-7998,17,73,SYNTHETIC — requires bin scale API
+2025-07-18,Finisher West,7.4,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-8454,12,76,SYNTHETIC — requires bin scale API
+2025-07-21,Nursery North,12.7,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-3237,32,91,SYNTHETIC — requires bin scale API
+2025-07-21,Nursery South,16.2,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-1325,34,90,SYNTHETIC — requires bin scale API
+2025-07-21,Finisher East,10.6,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-5603,36,84,SYNTHETIC — requires bin scale API
+2025-07-21,Finisher West,10.7,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-8754,16,83,SYNTHETIC — requires bin scale API
+2025-07-24,Nursery North,10.9,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-3575,12,79,SYNTHETIC — requires bin scale API
+2025-07-24,Nursery South,13.0,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-8604,24,60,SYNTHETIC — requires bin scale API
+2025-07-24,Finisher East,10.8,Grower (16% CP),AgriFeed Co,M. Garcia,LOT-8493,17,88,SYNTHETIC — requires bin scale API
+2025-07-24,Finisher West,14.3,Grower (16% CP),AgriFeed Co,R. Chen,LOT-6594,21,71,SYNTHETIC — requires bin scale API
+2025-07-27,Nursery North,12.9,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-1242,31,78,SYNTHETIC — requires bin scale API
+2025-07-27,Nursery South,14.8,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-9844,22,81,SYNTHETIC — requires bin scale API
+2025-07-27,Finisher East,9.7,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-6162,28,67,SYNTHETIC — requires bin scale API
+2025-07-27,Finisher West,7.5,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-4823,28,85,SYNTHETIC — requires bin scale API
+2025-07-30,Nursery North,9.6,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-5232,29,78,SYNTHETIC — requires bin scale API
+2025-07-30,Nursery South,16.0,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-6326,32,73,SYNTHETIC — requires bin scale API
+2025-07-30,Finisher East,6.6,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-3657,20,78,SYNTHETIC — requires bin scale API
+2025-07-30,Finisher West,14.3,Finisher 1 (14% CP),AgriFeed Co,M. Garcia,LOT-5837,26,87,SYNTHETIC — requires bin scale API
+2025-08-02,Nursery North,16.8,Phase 3 (18% CP),AgriFeed Co,M. Garcia,LOT-4957,24,66,SYNTHETIC — requires bin scale API
+2025-08-02,Nursery South,13.7,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-8833,15,71,SYNTHETIC — requires bin scale API
+2025-08-02,Finisher East,10.3,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-4892,33,75,SYNTHETIC — requires bin scale API
+2025-08-02,Finisher West,6.7,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-5213,31,63,SYNTHETIC — requires bin scale API
+2025-08-05,Nursery North,10.8,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-9557,35,70,SYNTHETIC — requires bin scale API
+2025-08-05,Nursery South,10.4,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-9982,27,87,SYNTHETIC — requires bin scale API
+2025-08-05,Finisher East,13.0,Grower (16% CP),AgriFeed Co,J. Miller,LOT-1920,31,88,SYNTHETIC — requires bin scale API
+2025-08-05,Finisher West,10.1,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-4618,39,87,SYNTHETIC — requires bin scale API
+2025-08-08,Nursery North,18.0,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-3547,38,74,SYNTHETIC — requires bin scale API
+2025-08-08,Nursery South,11.4,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-1506,24,82,SYNTHETIC — requires bin scale API
+2025-08-08,Finisher East,11.0,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-2192,19,69,SYNTHETIC — requires bin scale API
+2025-08-08,Finisher West,9.1,Grower (16% CP),AgriFeed Co,J. Miller,LOT-7106,29,92,SYNTHETIC — requires bin scale API
+2025-08-11,Nursery North,7.5,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-2539,26,63,SYNTHETIC — requires bin scale API
+2025-08-11,Nursery South,8.5,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-8680,16,89,SYNTHETIC — requires bin scale API
+2025-08-11,Finisher East,10.4,Grower (16% CP),AgriFeed Co,R. Chen,LOT-1919,28,86,SYNTHETIC — requires bin scale API
+2025-08-11,Finisher West,13.1,Grower (16% CP),AgriFeed Co,J. Miller,LOT-6275,37,88,SYNTHETIC — requires bin scale API
+2025-08-14,Nursery North,7.7,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-8354,13,76,SYNTHETIC — requires bin scale API
+2025-08-14,Nursery South,12.3,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-9111,16,63,SYNTHETIC — requires bin scale API
+2025-08-14,Finisher East,8.4,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-6185,21,71,SYNTHETIC — requires bin scale API
+2025-08-14,Finisher West,15.9,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-1692,16,60,SYNTHETIC — requires bin scale API
+2025-08-17,Nursery North,9.9,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-6209,22,65,SYNTHETIC — requires bin scale API
+2025-08-17,Nursery South,14.7,Phase 2 (20% CP),AgriFeed Co,R. Chen,LOT-8933,14,89,SYNTHETIC — requires bin scale API
+2025-08-17,Finisher East,14.1,Grower (16% CP),AgriFeed Co,J. Miller,LOT-8396,21,89,SYNTHETIC — requires bin scale API
+2025-08-17,Finisher West,6.3,Grower (16% CP),AgriFeed Co,J. Miller,LOT-1404,21,88,SYNTHETIC — requires bin scale API
+2025-08-20,Nursery North,9.4,Phase 2 (20% CP),AgriFeed Co,T. Anderson,LOT-9462,11,77,SYNTHETIC — requires bin scale API
+2025-08-20,Nursery South,13.2,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-1421,14,92,SYNTHETIC — requires bin scale API
+2025-08-20,Finisher East,16.0,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-5675,36,77,SYNTHETIC — requires bin scale API
+2025-08-20,Finisher West,9.2,Finisher 1 (14% CP),AgriFeed Co,T. Anderson,LOT-7103,31,61,SYNTHETIC — requires bin scale API
+2025-08-23,Nursery North,15.9,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-4096,32,80,SYNTHETIC — requires bin scale API
+2025-08-23,Nursery South,11.0,Phase 3 (18% CP),AgriFeed Co,J. Miller,LOT-6798,37,91,SYNTHETIC — requires bin scale API
+2025-08-23,Finisher East,8.6,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-9456,35,81,SYNTHETIC — requires bin scale API
+2025-08-23,Finisher West,6.7,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-6673,30,91,SYNTHETIC — requires bin scale API
+2025-08-26,Nursery North,16.0,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-4854,16,88,SYNTHETIC — requires bin scale API
+2025-08-26,Nursery South,6.1,Phase 3 (18% CP),AgriFeed Co,R. Chen,LOT-3395,38,74,SYNTHETIC — requires bin scale API
+2025-08-26,Finisher East,13.2,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-1588,38,78,SYNTHETIC — requires bin scale API
+2025-08-26,Finisher West,16.6,Finisher 2 (13% CP),AgriFeed Co,J. Miller,LOT-9531,24,63,SYNTHETIC — requires bin scale API
+2025-08-29,Nursery North,6.1,Phase 3 (18% CP),AgriFeed Co,T. Anderson,LOT-9022,25,72,SYNTHETIC — requires bin scale API
+2025-08-29,Nursery South,17.9,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-7477,22,66,SYNTHETIC — requires bin scale API
+2025-08-29,Finisher East,7.2,Finisher 1 (14% CP),AgriFeed Co,J. Miller,LOT-4496,31,83,SYNTHETIC — requires bin scale API
+2025-08-29,Finisher West,12.3,Grower (16% CP),AgriFeed Co,J. Miller,LOT-2231,23,67,SYNTHETIC — requires bin scale API
+2025-09-01,Nursery North,9.6,Phase 1 (22% CP),AgriFeed Co,J. Miller,LOT-2689,23,73,SYNTHETIC — requires bin scale API
+2025-09-01,Nursery South,9.0,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-6649,39,72,SYNTHETIC — requires bin scale API
+2025-09-01,Finisher East,7.1,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-2342,34,87,SYNTHETIC — requires bin scale API
+2025-09-01,Finisher West,13.7,Finisher 2 (13% CP),AgriFeed Co,M. Garcia,LOT-5206,18,91,SYNTHETIC — requires bin scale API
+2025-09-04,Nursery North,6.3,Phase 1 (22% CP),AgriFeed Co,M. Garcia,LOT-1813,34,93,SYNTHETIC — requires bin scale API
+2025-09-04,Nursery South,6.5,Phase 2 (20% CP),AgriFeed Co,M. Garcia,LOT-6911,25,89,SYNTHETIC — requires bin scale API
+2025-09-04,Finisher East,11.9,Grower (16% CP),AgriFeed Co,T. Anderson,LOT-2141,27,77,SYNTHETIC — requires bin scale API
+2025-09-04,Finisher West,14.1,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-5270,21,72,SYNTHETIC — requires bin scale API
+2025-09-07,Nursery North,9.4,Phase 1 (22% CP),AgriFeed Co,R. Chen,LOT-4786,28,94,SYNTHETIC — requires bin scale API
+2025-09-07,Nursery South,9.9,Phase 2 (20% CP),AgriFeed Co,J. Miller,LOT-5658,20,81,SYNTHETIC — requires bin scale API
+2025-09-07,Finisher East,8.2,Finisher 1 (14% CP),AgriFeed Co,R. Chen,LOT-7219,32,87,SYNTHETIC — requires bin scale API
+2025-09-07,Finisher West,11.0,Finisher 2 (13% CP),AgriFeed Co,T. Anderson,LOT-3962,37,85,SYNTHETIC — requires bin scale API

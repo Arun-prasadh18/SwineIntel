@@ -1,0 +1,31 @@
+date,pig_group_id,barn,treatment_type,medication,dose,administered_by,reason,head_treated,source
+2025-01-26,PG-1017,N1,Feed additive,Pulmotil (tilmicosin),434 g/ton,Tech. R. Anderson,Respiratory signs,26,SYNTHETIC — requires PigCHAMP integration
+2025-01-28,PG-1017,N1,Oral water medication,CTC (chlortetracycline),596 g/ton,Tech. J. Miller,Poor condition,12,SYNTHETIC — requires PigCHAMP integration
+2025-01-29,PG-1017,N1,Oral water medication,CTC (chlortetracycline),360 g/ton,Dr. Hansen,Poor condition,36,SYNTHETIC — requires PigCHAMP integration
+2025-01-29,PG-1017,N1,Topical,Ivermectin pour-on,355 g/ton,Tech. R. Anderson,Poor condition,25,SYNTHETIC — requires PigCHAMP integration
+2025-02-08,PG-1017,N1,Injectable,Draxxin (tulathromycin),0.7 ml/head,Dr. Hansen,Poor condition,31,SYNTHETIC — requires PigCHAMP integration
+2025-02-18,PG-1017,N1,Oral water medication,Denagard (tiamulin),373 g/ton,Dr. Hansen,Lameness,14,SYNTHETIC — requires PigCHAMP integration
+2025-03-05,PG-1000,N1,Injectable,Lincomycin,2.3 ml/head,Tech. J. Miller,Poor condition,2248,SYNTHETIC — requires PigCHAMP integration
+2025-03-06,PG-1000,N1,Injectable,Penicillin G,2.2 ml/head,Dr. Hansen,Prophylactic,18,SYNTHETIC — requires PigCHAMP integration
+2025-03-13,PG-1016,NS2,Injectable,Lincomycin,1.5 ml/head,Tech. R. Anderson,Lameness,2399,SYNTHETIC — requires PigCHAMP integration
+2025-03-16,PG-1016,NS2,Oral water medication,CTC (chlortetracycline),541 g/ton,Dr. Peterson,Poor condition,2399,SYNTHETIC — requires PigCHAMP integration
+2025-03-22,PG-1016,NS2,Oral water medication,CTC (chlortetracycline),531 g/ton,Tech. J. Miller,Tail bite wound,34,SYNTHETIC — requires PigCHAMP integration
+2025-03-30,PG-1000,N1,Injectable,Draxxin (tulathromycin),3.0 ml/head,Tech. R. Anderson,Respiratory signs,2248,SYNTHETIC — requires PigCHAMP integration
+2025-03-31,PG-1000,N1,Feed additive,Mecadox (carbadox),454 g/ton,Tech. J. Miller,Tail bite wound,33,SYNTHETIC — requires PigCHAMP integration
+2025-04-03,PG-1016,NS2,Oral water medication,CTC (chlortetracycline),353 g/ton,Dr. Hansen,Prophylactic,2399,SYNTHETIC — requires PigCHAMP integration
+2025-04-07,PG-1016,NS2,Injectable,Penicillin G,2.4 ml/head,Tech. R. Anderson,Poor condition,2399,SYNTHETIC — requires PigCHAMP integration
+2025-05-18,PG-1003,N1,Oral water medication,CTC (chlortetracycline),353 g/ton,Dr. Peterson,Prophylactic,32,SYNTHETIC — requires PigCHAMP integration
+2025-06-03,PG-1003,N1,Injectable,Draxxin (tulathromycin),3.0 ml/head,Dr. Peterson,Prophylactic,36,SYNTHETIC — requires PigCHAMP integration
+2025-06-06,PG-1003,N1,Oral water medication,Denagard (tiamulin),293 g/ton,Tech. J. Miller,Diarrhea,2108,SYNTHETIC — requires PigCHAMP integration
+2025-06-19,PG-1001,NS1,Oral water medication,Lincomycin soluble,561 g/ton,Tech. R. Anderson,Lameness,38,SYNTHETIC — requires PigCHAMP integration
+2025-07-04,PG-1001,NS1,Injectable,Penicillin G,2.6 ml/head,Tech. R. Anderson,Poor condition,36,SYNTHETIC — requires PigCHAMP integration
+2025-07-04,PG-1001,NS1,Injectable,Excede (ceftiofur),1.4 ml/head,Tech. J. Miller,Lameness,2570,SYNTHETIC — requires PigCHAMP integration
+2025-07-14,PG-1001,NS1,Injectable,Penicillin G,2.0 ml/head,Tech. J. Miller,Diarrhea,2570,SYNTHETIC — requires PigCHAMP integration
+2025-07-26,PG-1001,NS1,Injectable,Excede (ceftiofur),0.6 ml/head,Dr. Peterson,Poor condition,43,SYNTHETIC — requires PigCHAMP integration
+2025-08-13,PG-1010,N2,Topical,Ivermectin pour-on,284 g/ton,Dr. Peterson,Prophylactic,12,SYNTHETIC — requires PigCHAMP integration
+2025-08-19,PG-1010,N2,Oral water medication,Lincomycin soluble,513 g/ton,Dr. Hansen,Poor condition,2194,SYNTHETIC — requires PigCHAMP integration
+2025-08-28,PG-1008,NS1,Feed additive,Pulmotil (tilmicosin),447 g/ton,Tech. R. Anderson,Tail bite wound,2471,SYNTHETIC — requires PigCHAMP integration
+2025-09-08,PG-1008,NS1,Injectable,Excede (ceftiofur),2.4 ml/head,Dr. Hansen,Prophylactic,12,SYNTHETIC — requires PigCHAMP integration
+2025-09-11,PG-1008,NS1,Topical,Ivermectin pour-on,394 g/ton,Tech. J. Miller,Diarrhea,2471,SYNTHETIC — requires PigCHAMP integration
+2025-09-15,PG-1008,NS1,Injectable,Excede (ceftiofur),2.0 ml/head,Tech. R. Anderson,Poor condition,2471,SYNTHETIC — requires PigCHAMP integration
+2025-09-22,PG-1010,N2,Injectable,Penicillin G,2.9 ml/head,Dr. Hansen,Diarrhea,2194,SYNTHETIC — requires PigCHAMP integration

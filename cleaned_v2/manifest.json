@@ -1,0 +1,1166 @@
+{
+  "track1_market": [
+    {
+      "file": "beef_production.csv",
+      "rows": 986,
+      "cols": 4,
+      "columns": [
+        "date",
+        "lbs",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "carcass_weights.csv",
+      "rows": 12380,
+      "cols": 8,
+      "columns": [
+        "report_date",
+        "for_date_begin",
+        "purchase_type",
+        "head_count",
+        "avg_net_price",
+        "avg_carcass_weight",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "cash_cattle.csv",
+      "rows": 133140,
+      "cols": 7,
+      "columns": [
+        "class_description",
+        "selling_basis_description",
+        "grade_description",
+        "year",
+        "indexby_year",
+        "report_date",
+        "weighted_avg_price"
+      ]
+    },
+    {
+      "file": "cattle_primal_values.csv",
+      "rows": 56411,
+      "cols": 9,
+      "columns": [
+        "report_date",
+        "primal_desc",
+        "choice_600_900",
+        "select_600_900",
+        "week_of_year",
+        "year",
+        "indexby_year",
+        "start_of_week",
+        "end_of_week"
+      ]
+    },
+    {
+      "file": "cow_harvest.csv",
+      "rows": 4556,
+      "cols": 13,
+      "columns": [
+        "report_begin_date",
+        "report_end_date",
+        "published_date",
+        "group",
+        "category",
+        "description",
+        "commodity",
+        "class",
+        "volume",
+        "unit",
+        "year",
+        "indexby_year",
+        "report_date"
+      ]
+    },
+    {
+      "file": "cutout_select_choice.csv",
+      "rows": 11136,
+      "cols": 8,
+      "columns": [
+        "report_date",
+        "attribute",
+        "value",
+        "week_of_year",
+        "year",
+        "indexby_year",
+        "commodity_row_count_cutout",
+        "rankby_attribute"
+      ]
+    },
+    {
+      "file": "endpointlist.csv",
+      "rows": 84465,
+      "cols": 12,
+      "columns": [
+        "commodity",
+        "month",
+        "year",
+        "trading_day",
+        "close",
+        "commodity_month",
+        "month_name",
+        "weekof_year",
+        "week",
+        "month_day",
+        "symbol",
+        "price_unit"
+      ]
+    },
+    {
+      "file": "fed_cattle.csv",
+      "rows": 1185,
+      "cols": 6,
+      "columns": [
+        "year",
+        "indexby_year",
+        "slaughter",
+        "type",
+        "slaughter_date",
+        "is_yoy_change"
+      ]
+    },
+    {
+      "file": "harvest_usda.csv",
+      "rows": 6190,
+      "cols": 12,
+      "columns": [
+        "report_date",
+        "for_date_begin",
+        "avg_carcass_weight",
+        "avg_backfat",
+        "avg_loin_area",
+        "avg_loin_depth",
+        "standard_lean_yield",
+        "wtd_avg_base",
+        "wtd_avg_net_price",
+        "weekof_year",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "harvest_2.csv",
+      "rows": 1238,
+      "cols": 11,
+      "columns": [
+        "report_date",
+        "slug_id",
+        "slug_name",
+        "report_title",
+        "group",
+        "category",
+        "commodity",
+        "class",
+        "period",
+        "slaughter_date",
+        "slaughter"
+      ]
+    },
+    {
+      "file": "harvest_3.csv",
+      "rows": 6747,
+      "cols": 22,
+      "columns": [
+        "report_date",
+        "commodity",
+        "class",
+        "period",
+        "revision",
+        "slaughter",
+        "week_ago",
+        "year_ago",
+        "week_to_date",
+        "prev_week_to_date",
+        "last_year_week_to_date",
+        "current_year_to_date",
+        "previous_year_to_date",
+        "pct_change",
+        "week_of_year",
+        "year",
+        "indexby_year",
+        "monday_of_week",
+        "indexby_year_test",
+        "slaughter_date",
+        "volume",
+        "week_offset"
+      ]
+    },
+    {
+      "file": "historical_harvest.csv",
+      "rows": 3067,
+      "cols": 13,
+      "columns": [
+        "report_date",
+        "group",
+        "category",
+        "description",
+        "commodity",
+        "class",
+        "volume",
+        "unit",
+        "year",
+        "indexby_year",
+        "monday_of_week",
+        "indexby_year_test",
+        "slaughter_date"
+      ]
+    },
+    {
+      "file": "iaswmn.csv",
+      "rows": 1582,
+      "cols": 6,
+      "columns": [
+        "report_date",
+        "purchase_type",
+        "wtd_avg",
+        "price_5day",
+        "name",
+        "year"
+      ]
+    },
+    {
+      "file": "indexes.csv",
+      "rows": 12380,
+      "cols": 15,
+      "columns": [
+        "report_date",
+        "for_date_begin",
+        "purchase_type",
+        "head_count",
+        "avg_net_price",
+        "avg_carcass_weight",
+        "total_lbs",
+        "lbs_day1",
+        "usd_day1",
+        "lbs_day2",
+        "usd_day2",
+        "weekof_year",
+        "year",
+        "indexby_year",
+        "amount"
+      ]
+    },
+    {
+      "file": "isowean_cash_market_volume.csv",
+      "rows": 2755,
+      "cols": 19,
+      "columns": [
+        "report_begin_date",
+        "report_end_date",
+        "published_date",
+        "report_date",
+        "class",
+        "weight_basis",
+        "purchase_type",
+        "lot_size",
+        "head_count",
+        "price_min",
+        "price_max",
+        "wtd_avg_price",
+        "wtd_avg_price_last_rep",
+        "last_reported_date",
+        "wtd_avg_price_yr_ago",
+        "last_year_date",
+        "week_of_year",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "lrp_quotes_futures.csv",
+      "rows": 72,
+      "cols": 6,
+      "columns": [
+        "previous",
+        "symbol1",
+        "grouping_date",
+        "name",
+        "type",
+        "commodity"
+      ]
+    },
+    {
+      "file": "lrp_quotes.csv",
+      "rows": 372,
+      "cols": 43,
+      "columns": [
+        "base_subsidy_amount",
+        "conservation_compliance_subsidy_reduction_amount",
+        "coverage_level_percent",
+        "coverage_price",
+        "end_date",
+        "endorsement_length",
+        "expected_ending_value_amount",
+        "head_count",
+        "insured_share_percent",
+        "livestock_rate",
+        "per_head_premium",
+        "per_hundred_weight_premium",
+        "per_unit_premium",
+        "practice_code",
+        "producer_premium_amount",
+        "sales_effective_date",
+        "subsidy_percent",
+        "target_weight_quantity",
+        "type_code",
+        "benefits_received_year_count",
+        "conservation_compliance_subsidy_reduction_percent",
+        "farmer_rancher_subsidy_amount",
+        "liability_amount",
+        "subsidy_amount",
+        "total_premium_amount",
+        "commodity_code",
+        "commodity_year",
+        "county_code",
+        "insurance_plan_code",
+        "is_valid",
+        "reinsurance_year",
+        "state_code",
+        "commodity",
+        "strike",
+        "grouping_date",
+        "cme_premium",
+        "business_day_of_month",
+        "lookup_month",
+        "last_business_day",
+        "weekdays_to_expiration",
+        "expiration_date",
+        "futures_price",
+        "is_expired"
+      ]
+    },
+    {
+      "file": "national_sow_prices.csv",
+      "rows": 26817,
+      "cols": 13,
+      "columns": [
+        "report_date",
+        "reported_for_date",
+        "weight_range",
+        "purchase_type",
+        "head_count",
+        "price_low",
+        "price_high",
+        "wtd_avg",
+        "avg_weight",
+        "total_head",
+        "week_of_year",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "national.csv",
+      "rows": 1582,
+      "cols": 6,
+      "columns": [
+        "report_date",
+        "purchase_type",
+        "wtd_avg",
+        "price_5day",
+        "name",
+        "year"
+      ]
+    },
+    {
+      "file": "nearby_futures.csv",
+      "rows": 4746,
+      "cols": 7,
+      "columns": [
+        "report_date",
+        "purchase_type",
+        "price_5day",
+        "name",
+        "year",
+        "wtd_avg",
+        "avg"
+      ]
+    },
+    {
+      "file": "pork_primal_values.csv",
+      "rows": 29520,
+      "cols": 13,
+      "columns": [
+        "report_date",
+        "commodity",
+        "value",
+        "week_of_year",
+        "year",
+        "indexby_year",
+        "row_count",
+        "rankby_commodity",
+        "commodity_row_count",
+        "percent_rank_pork_column",
+        "year_offset",
+        "start_of_week",
+        "end_of_week"
+      ]
+    },
+    {
+      "file": "pork_production.csv",
+      "rows": 829,
+      "cols": 4,
+      "columns": [
+        "date",
+        "lbs",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "sow_harvest.csv",
+      "rows": 1194,
+      "cols": 11,
+      "columns": [
+        "report_date",
+        "published_date",
+        "group",
+        "category",
+        "description",
+        "commodity",
+        "class",
+        "volume",
+        "unit",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "sales.csv",
+      "rows": 6206,
+      "cols": 16,
+      "columns": [
+        "date",
+        "weekly_exports",
+        "accumulated_exports",
+        "outstanding_sales",
+        "gross_sales",
+        "net_sales",
+        "total_commitment",
+        "nmy_outstanding_sales",
+        "nmy_net_sales",
+        "week_of_year",
+        "commodity",
+        "grain_year",
+        "year",
+        "indexby_year",
+        "year_grain",
+        "indexby_year_grain"
+      ]
+    },
+    {
+      "file": "wasde.csv",
+      "rows": 20356,
+      "cols": 19,
+      "columns": [
+        "wasde_number",
+        "report_date",
+        "report_title",
+        "attribute",
+        "reliability_projection",
+        "commodity",
+        "region",
+        "market_year",
+        "proj_est_flag",
+        "annual_quarter_flag",
+        "value",
+        "unit",
+        "release_date",
+        "forecast_year",
+        "forecast_month",
+        "market_date",
+        "market_date_sort",
+        "market_year_filter",
+        "is_latest_two_dates"
+      ]
+    },
+    {
+      "file": "weekly_harvest.csv",
+      "rows": 4154,
+      "cols": 10,
+      "columns": [
+        "report_date",
+        "published_date",
+        "description",
+        "commodity",
+        "type",
+        "class",
+        "volume",
+        "unit",
+        "year",
+        "indexby_year"
+      ]
+    },
+    {
+      "file": "western_colt.csv",
+      "rows": 29940,
+      "cols": 17,
+      "columns": [
+        "report_date",
+        "purchase_type",
+        "estimated_today",
+        "actual_today",
+        "report_title",
+        "slug_name",
+        "slug_id",
+        "office_name",
+        "office_code",
+        "office_city",
+        "office_state",
+        "market_location_name",
+        "market_location_city",
+        "market_location_state",
+        "market_type",
+        "market_type_category",
+        "published_date"
+      ]
+    },
+    {
+      "file": "western_cornbelt.csv",
+      "rows": 1582,
+      "cols": 7,
+      "columns": [
+        "report_date",
+        "purchase_type",
+        "price_5day",
+        "name",
+        "year",
+        "indexby_year",
+        "wtd_avg"
+      ]
+    },
+    {
+      "file": "lookup_cme.csv",
+      "rows": 13049,
+      "cols": 6,
+      "columns": [
+        "name",
+        "type",
+        "grouping_date",
+        "strike",
+        "expiration_date",
+        "previous"
+      ]
+    }
+  ],
+  "track1_futures_xlsx": [
+    {
+      "file": "zch25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zck25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zcn25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zcu25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zcz25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "heg25_history.csv",
+      "rows": 380,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "hej25_history.csv",
+      "rows": 378,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "hek25_history.csv",
+      "rows": 356,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "hem25_history.csv",
+      "rows": 376,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "hen25_history.csv",
+      "rows": 357,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "heq25_history.csv",
+      "rows": 338,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "hev25_history.csv",
+      "rows": 359,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "hez25_history.csv",
+      "rows": 377,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "leg25_history.csv",
+      "rows": 376,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "lej25_history.csv",
+      "rows": 376,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "lem25_history.csv",
+      "rows": 376,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "leq25_history.csv",
+      "rows": 378,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "lev25_history.csv",
+      "rows": 380,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "lez25_history.csv",
+      "rows": 377,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsf25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsh25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsk25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsn25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsq25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsu25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    },
+    {
+      "file": "zsx25.csv",
+      "rows": 500,
+      "cols": 8,
+      "columns": [
+        "symbol",
+        "time",
+        "open",
+        "high",
+        "low",
+        "close",
+        "volume",
+        "open_interest"
+      ]
+    }
+  ],
+  "track2_producer": [
+    {
+      "file": "2025_dummy_barn_environmental_utilities.csv",
+      "rows": 3285,
+      "cols": 9,
+      "columns": [
+        "date",
+        "site",
+        "barn",
+        "avg_temperature_f",
+        "avg_humidity_pct",
+        "water_usage_gallons",
+        "power_usage_k_wh",
+        "ventilation_level_pct",
+        "temp_alert"
+      ]
+    },
+    {
+      "file": "2025_dummy_barn_to_barn_pig_flow.csv",
+      "rows": 41,
+      "cols": 10,
+      "columns": [
+        "pig_group_id",
+        "movement_date",
+        "from_site",
+        "from_barn",
+        "to_site",
+        "to_barn",
+        "event",
+        "head_moved",
+        "avg_weight_lb",
+        "notes"
+      ]
+    },
+    {
+      "file": "2025_dummy_hog_hedging_aligned_to_nursery.csv",
+      "rows": 18,
+      "cols": 12,
+      "columns": [
+        "pig_group_id",
+        "expected_head_from_nursery",
+        "coverage_percent",
+        "head_covered",
+        "contracts",
+        "instrument_type",
+        "buy_sell",
+        "trade_date",
+        "expiration_date",
+        "strike_or_futures_price_cwt",
+        "option_or_lrp_premium_cwt",
+        "contract_month"
+      ]
+    },
+    {
+      "file": "2025_dummy_nursery_intake.csv",
+      "rows": 18,
+      "cols": 12,
+      "columns": [
+        "pig_group_id",
+        "placement_date",
+        "nursery_site",
+        "nursery_barn",
+        "pig_source",
+        "production_flow",
+        "expected_head",
+        "received_head",
+        "avg_weight_in_lb",
+        "age_days",
+        "health_status",
+        "placement_week"
+      ]
+    },
+    {
+      "file": "2025_dummy_packer_settlement.csv",
+      "rows": 180,
+      "cols": 33,
+      "columns": [
+        "packer",
+        "plant",
+        "settlement_id",
+        "scale_ticket_id",
+        "kill_date",
+        "delivery_date",
+        "producer",
+        "site",
+        "tattoo",
+        "load_id",
+        "contract_type",
+        "expected_head",
+        "delivered_head",
+        "paid_head",
+        "live_weight_total_lb",
+        "avg_live_wt_lb",
+        "avg_carc_wt_lb",
+        "avg_yield_pct",
+        "base_price_cwt",
+        "matrix_premium_cwt",
+        "vob_cwt",
+        "sort_loss_cwt",
+        "eval_price_cwt",
+        "carcass_total_weight_lb",
+        "gross_payment_usd",
+        "freight_carrier",
+        "freight_amount_usd",
+        "checkoff_usd",
+        "yardage_usd",
+        "other_deductions_usd",
+        "total_deductions_usd",
+        "net_payment_usd",
+        "payment_date"
+      ]
+    },
+    {
+      "file": "2025_dummy_sow_farm_weekly_farrowing.csv",
+      "rows": 156,
+      "cols": 10,
+      "columns": [
+        "week_start",
+        "sow_farm",
+        "sows_bred",
+        "farrowings",
+        "total_born",
+        "live_born",
+        "pre_wean_mortality_head",
+        "weaned_pigs",
+        "avg_wean_weight_lb",
+        "avg_wean_age_days"
+      ]
+    },
+    {
+      "file": "2025_swine_accounting_dummy.csv",
+      "rows": 360,
+      "cols": 12,
+      "columns": [
+        "date",
+        "month",
+        "site",
+        "cost_category",
+        "cost_subcategory",
+        "description",
+        "quantity",
+        "unit_cost",
+        "total_cost",
+        "vendor",
+        "production_phase",
+        "pig_group_id"
+      ]
+    }
+  ],
+  "validation": {
+    "track2_pig_group_checks": [
+      "Pig flow: all IDs match nursery \u2713",
+      "Hedging: all IDs match nursery \u2713",
+      "Accounting: 351 unique IDs, 0 overlap with nursery (EXPECTED per dataset guide \u2014 separate ID namespace)",
+      "  PG-1017: nursery mortality = 77 head (3.4%)",
+      "  PG-1002: nursery mortality = 52 head (2.3%)",
+      "  PG-1014: nursery mortality = 91 head (3.7%)",
+      "  PG-1011: nursery mortality = 102 head (4.3%)",
+      "  PG-1015: nursery mortality = 50 head (1.9%)",
+      "  PG-1016: nursery mortality = 92 head (3.8%)",
+      "  PG-1000: nursery mortality = 98 head (4.4%)",
+      "  PG-1004: nursery mortality = 102 head (4.8%)",
+      "  PG-1005: nursery mortality = 107 head (5.1%)",
+      "  PG-1009: nursery mortality = 42 head (1.7%)",
+      "  PG-1007: nursery mortality = 99 head (4.1%)",
+      "  PG-1003: nursery mortality = 56 head (2.7%)",
+      "  PG-1006: nursery mortality = 82 head (3.3%)",
+      "  PG-1001: nursery mortality = 46 head (1.8%)",
+      "  PG-1012: nursery mortality = 45 head (1.9%)",
+      "  PG-1008: nursery mortality = 85 head (3.4%)",
+      "  PG-1010: nursery mortality = 81 head (3.7%)",
+      "  PG-1013: nursery mortality = 92 head (4.2%)"
+    ]
+  },
+  "cleaning_notes": {
+    "carcass_weights": "avg_net_price null for ALL Packer Owned rows (structural)",
+    "fed_cattle": "Cow type = YoY change (always negative). Live Cattle = absolute head count.",
+    "indexes": "LBS/$ columns renamed: lbs_day1, lbs_day2, usd_day1, usd_day2. 'Amount' = actual index.",
+    "harvest_3": "Dropped prev_week_to_date.1 (merge artifact, unreliable duplicate)",
+    "isowean": "17 constant metadata columns removed (category, office, market location, etc.)",
+    "lrp_quotes": "264 of 372 rows expired (negative weekdays_to_expiration). is_expired flag added.",
+    "wasde": "Oct 2025 report missing. ReleaseTime and Source.Name dropped. 104 negative values = trade deficits.",
+    "pork_primal_values": "PercentRankPorkColumn clipped from [-0.0008, 0.999] to [0, 1].",
+    "track2_accounting": "Pig_Group_IDs (PG-1147..9996) do NOT match nursery (PG-1000..1017). Separate namespace.",
+    "track2_barn_env": "temp_alert column added for readings below 40\u00b0F (122 rows).",
+    "lookup_cme": "Strike Key dropped (= Strike/100, fully redundant).",
+    "cash_cattle": "Leading whitespace stripped from grade ' 0 - 35% Choice'."
+  },
+  "price_units": {
+    "ZC_corn": "cents/bushel (\u00f7100 for $/bu)",
+    "ZS_soybeans": "cents/bushel (\u00f7100 for $/bu)",
+    "ZM_soybean_meal": "$/short ton",
+    "HE_lean_hogs": "$/cwt carcass",
+    "LE_live_cattle": "$/cwt live",
+    "GF_feeder_cattle": "$/cwt live",
+    "pork_primals": "$/cwt",
+    "beef_cutout": "$/cwt",
+    "cash_hogs": "$/cwt carcass basis",
+    "cash_cattle": "$/cwt",
+    "packer_settlement": "$/cwt carcass"
+  },
+  "commodity_codes": {
+    "ZM": "Soybean Meal (NOT soybeans)",
+    "ZS": "Soybeans",
+    "ZC": "Corn",
+    "HE": "Lean Hogs",
+    "LE": "Live Cattle",
+    "GF": "Feeder Cattle",
+    "WU": "Unknown (584 rows in EndPointList)"
+  },
+  "month_codes": {
+    "F": "Jan",
+    "G": "Feb",
+    "H": "Mar",
+    "J": "Apr",
+    "K": "May",
+    "M": "Jun",
+    "N": "Jul",
+    "Q": "Aug",
+    "U": "Sep",
+    "V": "Oct",
+    "X": "Nov",
+    "Z": "Dec"
+  }
+}

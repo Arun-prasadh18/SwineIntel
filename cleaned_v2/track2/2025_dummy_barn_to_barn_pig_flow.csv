@@ -1,0 +1,42 @@
+pig_group_id,movement_date,from_site,from_barn,to_site,to_barn,event,head_moved,avg_weight_lb,notes
+PG-1017,2025-01-16,External Source,,Nursery North,N1,Placement,2285,11.55,Nursery placement
+PG-1002,2025-01-24,External Source,,Nursery South,NS2,Placement,2274,12.49,Nursery placement
+PG-1017,2025-01-30,Nursery North,N1,Nursery North,N1,Transfer,2277,18.97,Intra-nursery move
+PG-1014,2025-02-02,External Source,,Nursery South,NS2,Placement,2431,13.97,Nursery placement
+PG-1011,2025-02-11,External Source,,Nursery South,NS2,Placement,2350,12.87,Nursery placement
+PG-1015,2025-02-15,External Source,,Nursery South,NS2,Placement,2569,12.52,Nursery placement
+PG-1016,2025-02-22,External Source,,Nursery South,NS2,Placement,2399,13.43,Nursery placement
+PG-1000,2025-03-01,External Source,,Nursery North,N1,Placement,2248,12.45,Nursery placement
+PG-1004,2025-03-21,External Source,,Nursery South,NS1,Placement,2106,13.61,Nursery placement
+PG-1002,2025-03-23,Nursery South,NS2,Finisher West,FW1,Transfer,2222,54.21,Nursery to finisher
+PG-1005,2025-03-23,External Source,,Nursery North,N2,Placement,2107,11.9,Nursery placement
+PG-1017,2025-03-25,Nursery North,N1,Finisher West,FW2,Transfer,2208,50.71,Nursery to finisher
+PG-1004,2025-03-30,Nursery South,NS1,Nursery South,NS1,Transfer,2090,20.13,Intra-nursery move
+PG-1009,2025-04-06,External Source,,Nursery North,N1,Placement,2498,11.67,Nursery placement
+PG-1014,2025-04-11,Nursery South,NS2,Finisher West,FW2,Transfer,2340,62.97,Nursery to finisher
+PG-1007,2025-04-13,External Source,,Nursery North,N1,Placement,2415,12.0,Nursery placement
+PG-1009,2025-04-14,Nursery North,N1,Nursery North,N1,Transfer,2479,20.9,Intra-nursery move
+PG-1015,2025-04-17,Nursery South,NS2,Finisher West,FW1,Transfer,2519,53.59,Nursery to finisher
+PG-1011,2025-04-20,Nursery South,NS2,Finisher West,FW1,Transfer,2248,62.34,Nursery to finisher
+PG-1000,2025-04-24,Nursery North,N1,Finisher East,F1,Transfer,2150,52.01,Nursery to finisher
+PG-1007,2025-05-01,Nursery North,N1,Nursery North,N1,Transfer,2413,18.72,Intra-nursery move
+PG-1016,2025-05-02,Nursery South,NS2,Finisher West,FW1,Transfer,2307,63.16,Nursery to finisher
+PG-1003,2025-05-15,External Source,,Nursery North,N1,Placement,2108,13.88,Nursery placement
+PG-1005,2025-05-17,Nursery North,N2,Finisher West,FW2,Transfer,2000,59.15,Nursery to finisher
+PG-1004,2025-05-23,Nursery South,NS1,Finisher West,FW1,Transfer,2004,49.82,Nursery to finisher
+PG-1006,2025-05-23,External Source,,Nursery South,NS2,Placement,2496,10.53,Nursery placement
+PG-1009,2025-06-09,Nursery North,N1,Finisher West,FW1,Transfer,2456,57.73,Nursery to finisher
+PG-1007,2025-06-13,Nursery North,N1,Finisher East,F3,Transfer,2316,58.45,Nursery to finisher
+PG-1001,2025-06-13,External Source,,Nursery South,NS1,Placement,2570,10.43,Nursery placement
+PG-1003,2025-07-01,Nursery North,N1,Finisher East,F2,Transfer,2052,61.62,Nursery to finisher
+PG-1006,2025-07-23,Nursery South,NS2,Finisher West,FW1,Transfer,2414,48.76,Nursery to finisher
+PG-1012,2025-07-24,External Source,,Nursery North,N2,Placement,2427,13.49,Nursery placement
+PG-1008,2025-08-03,External Source,,Nursery South,NS1,Placement,2471,13.61,Nursery placement
+PG-1010,2025-08-04,External Source,,Nursery North,N2,Placement,2194,13.84,Nursery placement
+PG-1001,2025-08-11,Nursery South,NS1,Finisher East,F3,Transfer,2524,63.38,Nursery to finisher
+PG-1013,2025-08-24,External Source,,Nursery North,N1,Placement,2182,10.64,Nursery placement
+PG-1013,2025-09-11,Nursery North,N1,Nursery North,N1,Transfer,2172,18.31,Intra-nursery move
+PG-1008,2025-09-23,Nursery South,NS1,Finisher East,F3,Transfer,2386,57.3,Nursery to finisher
+PG-1012,2025-09-30,Nursery North,N2,Finisher West,FW2,Transfer,2382,54.07,Nursery to finisher
+PG-1010,2025-10-06,Nursery North,N2,Finisher West,FW2,Transfer,2113,56.88,Nursery to finisher
+PG-1013,2025-10-27,Nursery North,N1,Finisher East,F2,Transfer,2090,46.54,Nursery to finisher
