@@ -101,7 +101,6 @@ ALLOWED_USERS=123456789,987654321
 
 ```bash
 pip install -r requirements.txt
-pip install -r requirements_bot.txt
 ```
 
 **4. Build the database**
