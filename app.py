@@ -15,6 +15,7 @@ import duckdb
 import pandas as pd
 import numpy as np
 from ai_assistant import ask, scenario_price_change, scenario_feed_change, generate_weekly_insight, generate_action_recommendation
+from data_ingestion import render_upload_section
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -446,3 +447,15 @@ with ai_col:
 st.divider()
 st.caption("SwineIntel · Pro Ag Analytics Platform · Syracuse CCDS 2026")
 st.caption("Data: Pro Ag (Track 2) · CME/USDA (Track 1) · NOAA (weather) · MSHMP (disease)")
+
+# ═══════════════════════════════════════════════════════════════════════════════
+# SIDEBAR — Data Import
+# ═══════════════════════════════════════════════════════════════════════════════
+
+with st.sidebar:
+    st.header("🐷 SwineIntel")
+    st.divider()
+    render_upload_section(conn)
+    st.divider()
+    st.caption("Upload CSVs from QuickBooks, spreadsheets, or any system. "
+               "AI maps your columns to the standard format automatically.")
