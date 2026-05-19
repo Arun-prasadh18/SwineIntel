@@ -14,7 +14,7 @@ import streamlit as st
 import duckdb
 import pandas as pd
 import numpy as np
-from ai_assistant import ask, scenario_price_change, scenario_feed_change
+from ai_assistant import ask, scenario_price_change, scenario_feed_change, generate_weekly_insight, generate_action_recommendation
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -389,18 +389,7 @@ with ai_col:
     st.subheader("🤖 AI assistant")
 
     if "messages" not in st.session_state:
-        opening = "**Weekly insight**\n\n"
-        if len(lc):
-            best_g = lc.sort_values('est_margin', ascending=False).iloc[0]
-            worst_g = lc.sort_values('est_margin').iloc[0]
-            opening += f"Strongest: **{best_g.Pig_Group_ID}** (${best_g.est_margin:+.2f}/head). "
-            opening += f"Weakest: **{worst_g.Pig_Group_ID}** (${worst_g.est_margin:+.2f}/head).\n\n"
-        low = lc[lc.Coverage_Percent < 0.55]
-        if len(low):
-            opening += f"⚠️ {len(low)} groups below 55% coverage: {', '.join(low.Pig_Group_ID.tolist())}.\n\n"
-        if len(packer_rank):
-            bp = packer_rank.iloc[0]
-            opening += f"🏭 Best packer: {bp['Packer']} {bp['Contract_Type']} (${bp['advantage_per_head']:.2f}/head advantage)."
+        opening = generate_weekly_insight(conn)
         st.session_state.messages = [{"role": "assistant", "content": opening}]
 
     chat = st.container(height=380)
@@ -411,7 +400,7 @@ with ai_col:
 
     # Scenario buttons
     st.caption("Quick scenarios")
-    b1, b2, b3, b4 = st.columns(4)
+    b1, b2, b3, b4, b5 = st.columns(5)
     with b1:
         if st.button("🔻 Hogs -$5", use_container_width=True):
             r = scenario_price_change(conn, -5)
@@ -439,6 +428,11 @@ with ai_col:
                 msg += f"\n\nSpread: **${packer_rank.iloc[0]['advantage_per_head']:.2f}/head**"
             else:
                 msg = "No packer data."
+            st.session_state.messages.append({"role": "assistant", "content": msg}); st.rerun()
+    with b5:
+        if st.button("💡 What should I do?", use_container_width=True):
+            with st.spinner("AI analyzing all data..."):
+                msg = generate_action_recommendation(conn)
             st.session_state.messages.append({"role": "assistant", "content": msg}); st.rerun()
 
     if prompt := st.chat_input("Ask anything..."):
