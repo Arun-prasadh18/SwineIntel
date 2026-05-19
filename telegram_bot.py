@@ -357,11 +357,19 @@ async def button_handler(update: Update, context: ContextTypes.DEFAULT_TYPE) -> 
     data = query.data
 
     if data == "main_menu":
-        await query.edit_message_text(
-            "🐷 *AgPulse AI* — Main Menu",
-            parse_mode="Markdown",
-            reply_markup=main_keyboard(),
-        )
+        try:
+            await query.edit_message_text(
+                "🐷 *AgPulse AI* — Main Menu",
+                parse_mode="Markdown",
+                reply_markup=main_keyboard(),
+            )
+        except Exception:
+            # Message is a photo or can't be edited — send a new one
+            await query.message.reply_text(
+                "🐷 *AgPulse AI* — Main Menu",
+                parse_mode="Markdown",
+                reply_markup=main_keyboard(),
+            )
         return
 
     if data == "help":
